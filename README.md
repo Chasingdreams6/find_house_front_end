@@ -1,6 +1,6 @@
-# app
+# 租了么(zlm)前端
 
-A new Flutter project.
+互联网产品设计与开发（SE2320）暑期项目前端
 
 ## Getting Started
 
